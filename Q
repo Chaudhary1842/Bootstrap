@@ -1,0 +1,4 @@
+git clone --recursive https://github.com/roothide/theos.git 
+Bootstrap.tipa
+make package
+./packages/
